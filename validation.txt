@@ -1,0 +1,19 @@
+DataType : Chỉ ra kiểu dữ liệu
+
+DisplayName : Đổi tên hiển thị của trường dữ liệu
+
+DisplayFormat : Kiểu dữ liệu hiển thị
+
+Required : Bắt buộc phải nhập dữ liệu
+
+ReqularExpression : Dùng biểu thức RegularExpression để kiểm tra dữ liệu theo pattern
+
+Range : Thiết lập phạm vi dữ liệu
+
+StringLength : Độ dài của trường (tối đa, tối thiểu)
+
+MaxLength : Kích thước tối đa của trường dữ liệu nhập vào
+
+Bind : chỉ ra trường bind hoặc không bind dữ liệu cho data model
+
+ScaffoldColumn : Ẩn hoặc hiển thị trường trên form
