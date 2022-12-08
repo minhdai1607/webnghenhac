@@ -1,5 +1,5 @@
 Install NuGet\Install-Package EntityFramework -Version 6.4.4 (packge manager console)
-
+Install-Package Microsoft.AspNet.Mvc -Version 5.0.0
 …or create a new repository on the command line
 echo "# webnghenhac" >> README.md
 git init
