@@ -49,6 +49,7 @@ namespace WebNhacOnline.Controllers
                 if (check == null && check_mail == null)
                 {
                     user.Status = 1;
+                    user.Role = 2;
                     var change_p = user.Password;
                     user.Password = GetMD5(change_p);
                     db.Configuration.ValidateOnSaveEnabled = false;

@@ -14,4 +14,5 @@ namespace WebNhacOnline.Models
         public DbSet<Artist> Artists { get; set; }    // Tác giả hoặc nghệ sĩ trình bài
         public DbSet<Music> Musics { get; set; }
     }
+
 }
